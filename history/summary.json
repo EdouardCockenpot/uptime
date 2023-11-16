@@ -4,7 +4,7 @@
     "url": "https://www.becquet.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.becquet.fr.ico",
     "slug": "becquet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 1188,
     "timeMonth": 1162,
     "timeYear": 1104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-16": 0
+    }
   }
 ]
